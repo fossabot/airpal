@@ -16,6 +16,7 @@ queries run within the tool.
 * [Presto Compatibility Chart](#compatibility-chart)
 
 ![Airpal UI](screenshots/demo.gif)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fairpal.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fairpal?ref=badge_shield)
 
 ## Features
 
@@ -128,3 +129,7 @@ Airpal Version | Presto Versions Tested
 - Josh Perez [@goatslacker](https://github.com/goatslacker)
 - Spike Brehm [@spikebrehm](https://github.com/spikebrehm)
 - Stefan Vermaas [@stefanvermaas](https://github.com/stefanvermaas)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fairpal.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fairpal?ref=badge_large)
